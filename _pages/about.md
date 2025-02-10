@@ -26,17 +26,23 @@ I graduated from Washington University in Saint Louis in 2021 with double Majors
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Adaptive Grid Generation for Discretizing Implicit Complexes](https://jurwen.github.io/Adaptive-grid-for-implicit-complexes/static/pdfs/Adaptive%20grid%20generation%20for%20discretizing%20implicit%20complexes.pdf)
+[Adaptive Grid Generation for Discretizing Implicit Complexes](https://jurwen.github.io/Adaptive-grid-for-implicit-complexes/)
 
 **Yiwen Ju**, Xingyi Du, Qingnan Zhou, Nathan Carr, Tao Ju
 
-[**Project**](https://jurwen.github.io/Adaptive-grid-for-implicit-complexes/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project Code**](https://github.com/Jurwen/Adaptive-grid-generation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- The method generates a simplicial grid for adaptive discretization of implicit complexes, extending beyond implicit surfaces to represent non-smooth, non-manifold structures.
+
+- Unlike existing techniques, it adapts to both surfaces and their lower-dimensional intersections, improving accuracy and detail preservation.
+
+- It supports implicit surface arrangements, CSG shapes, material interfaces, and curve networks, enhancing versatility in geometric modeling.
+
+- The approach enables efficient, high-fidelity discretization for applications in graphics, material science, and simulations.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PlantMethods 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="2">
 
 [TopoRoot+: Computing Whorl and Soil Line Traits of Maize Roots from CT Imaging](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-024-01240-0)
 
@@ -47,8 +53,8 @@ I graduated from Washington University in Saint Louis in 2021 with double Majors
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PlantMethods 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PlantMethods 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="3">
 
 [TopoRoot: a method for computing hierarchy and fine-grained traits of maize roots from 3D imaging](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-021-00829-z)
 

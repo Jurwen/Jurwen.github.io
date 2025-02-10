@@ -85,6 +85,7 @@ Dan Zeng, Mao Li, Ni Jiang, **Yiwen Ju**, Hannah Schreiber, Erin Chambers, David
 
 # 💬 Invited Talks
 - *2024.08*, Implicit Surface Networks | [nTop](https://www.ntop.com/)
+- *2024.07*, Adaptive Grid Generation for Discretizing Implicit Complexes | [Siggraph](https://www.ntop.com/)
 
 # 💻 Internships
 - *2024.05 - 2024.08*, Research Engineer/Scientist Intern | Adobe

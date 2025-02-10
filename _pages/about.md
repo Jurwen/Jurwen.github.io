@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a graduating PhD candidate in computer graphics at Washington University in St. Louis, under the supervision of [Prof. Tao Ju](https://www.cs.wustl.edu/~taoju/). During my doctoral work, I focused on procedural geometry analysis for various applications, including maize root systems and cancer tissue. I have made innovative contributions to computer graphics modeling, specifically by devising methods to generate more robust geometric models represented by multiple implicit functions or neural networks. Currently, I am collaborating with Adobe Research to develop an innovative method for generating more precise swept volumes to address challenges in robotics, autonomous driving, and AR/VR drawing.
+I am a graduating PhD candidate in computer graphics at Washington University in St. Louis, under the supervision of [Prof. Tao Ju](https://www.cs.wustl.edu/~taoju/). During my doctoral work, I focused on procedural geometry analysis for various applications, including maize root systems and cancer tissue. I have made innovative contributions to computer graphics modeling, specifically by devising methods to generate more robust geometric models represented by multiple implicit functions or neural networks. Currently, I am collaborating with [Adobe Research](https://research.adobe.com/) to develop an innovative method for generating more precise swept volumes to address challenges in robotics, autonomous driving, and AR/VR drawing.
 
 I graduated from Washington University in Saint Louis in 2021 with double Majors in Computer Science and Mathematics.
 

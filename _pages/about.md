@@ -49,11 +49,15 @@ I graduated from Washington University in Saint Louis in 2021 with double Majors
 **Yiwen Ju**, Alexander E. Liu, Kenan Oestreich, Christopher N. Topp, Tao Ju
 
 [**Project**](https://github.com/Jurwen/TopoRoot_v2) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Performs Fine-grained root trait extraction based on TopoRoot and provides detailed architectural traits (e.g., root number, length, thickness, angle, hierarchy) from 3D maize root CT images, addressing gaps in existing methods.
+
+- Outperforms existing methods on real and simulated root images, improving precision in trait measurement.
+
+- Demonstrated utility in differentiating root mutants from wild types, aiding genetic studies of root architecture and crop productivity.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PlantMethods 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PlantMethods 2024</div><img src='images/toporoot2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TopoRoot: a method for computing hierarchy and fine-grained traits of maize roots from 3D imaging](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-021-00829-z)
@@ -61,7 +65,15 @@ I graduated from Washington University in Saint Louis in 2021 with double Majors
 Dan Zeng, Mao Li, Ni Jiang, **Yiwen Ju**, Hannah Schreiber, Erin Chambers, David Letscher, Tao Ju & Christopher N. Topp 
 
 [**Project**](https://github.com/danzeng8/TopoRoot) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Computes fine-grained root traits (e.g., number, length, thickness, angle, tortuosity, branching) from 3D images.
+
+- Uses topological simplification, geometric skeletonization, and customized heuristics to improve accuracy.
+
+- Validated on real and simulated maize root images, outperforming existing methods.
+
+- Runs autonomously within minutes on a desktop with minimal human input.
+
+- Enables large-scale phenomic studies for genetic research and crop productivity improvements.
 </div>
 </div>
 

@@ -23,7 +23,7 @@ I graduated from Washington University in Saint Louis in 2021 with double Majors
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2024</div><img src='images/adaptive-grid.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adaptive Grid Generation for Discretizing Implicit Complexes](https://jurwen.github.io/Adaptive-grid-for-implicit-complexes/)
@@ -41,8 +41,8 @@ I graduated from Washington University in Saint Louis in 2021 with double Majors
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PlantMethods 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="2">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PlantMethods 2024</div><img src='images/toporoot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [TopoRoot+: Computing Whorl and Soil Line Traits of Maize Roots from CT Imaging](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-024-01240-0)
 
@@ -53,8 +53,8 @@ I graduated from Washington University in Saint Louis in 2021 with double Majors
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PlantMethods 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="3">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PlantMethods 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [TopoRoot: a method for computing hierarchy and fine-grained traits of maize roots from 3D imaging](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-021-00829-z)
 

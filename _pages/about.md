@@ -57,7 +57,7 @@ I graduated from Washington University in Saint Louis in 2021 with double Majors
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PlantMethods 2024</div><img src='images/toporoot2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PlantMethods 2021</div><img src='images/toporoot2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TopoRoot: a method for computing hierarchy and fine-grained traits of maize roots from 3D imaging](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-021-00829-z)

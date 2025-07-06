@@ -84,9 +84,10 @@ Dan Zeng, Mao Li, Ni Jiang, **Yiwen Ju**, Hannah Schreiber, Erin Chambers, David
 - *2017.09 - 2021.01* Major in Mathematics, Washington University in Saint Louis
 
 # 💬 Invited Talks
-- *2024.08*, Implicit Surface Networks | [nTop](https://www.ntop.com/)
+- *2024.08*, Implicit Surface Networks | [   nTop](https://www.ntop.com/)
 - *2024.07*, Adaptive Grid Generation for Discretizing Implicit Complexes | [Siggraph](https://s2024.siggraph.org/)
 
 # 💻 Internships
+- *2025.06 - 2025.09*, Game Research and Development Intern | [Tencent America](https://www.tencent.com/en-us/about.html)
 - *2024.05 - 2024.08*, Research Engineer/Scientist Intern | [Adobe](https://www.adobe.com/)
 - *2018.05 - 2018.08*, Software Engineer Intern | [NCR](https://www.ncr.com/)

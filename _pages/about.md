@@ -23,7 +23,7 @@ I graduated from Washington University in Saint Louis in 2021 with double Majors
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conditionally Accepted to SIGGRAPH ASIA 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conditionally Accepted to SIGGRAPH ASIA 2025</div><img src='images/fig-teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Lifted Surfacing of Generalized Sweep Volumes]()

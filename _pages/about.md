@@ -99,6 +99,7 @@ Dan Zeng, Mao Li, Ni Jiang, **Yiwen Ju**, Hannah Schreiber, Erin Chambers, David
 - *2017.09 - 2021.01* Major in Mathematics, Washington University in Saint Louis
 
 # 💬 Invited Talks
+- *2024.10*, Fast and robust meshing of implicit complexes | [Adobe](https://www.adobe.com/)
 - *2024.08*, Implicit Surface Networks | [nTop](https://www.ntop.com/)
 - *2024.07*, Adaptive Grid Generation for Discretizing Implicit Complexes | [Siggraph](https://s2024.siggraph.org/)
 

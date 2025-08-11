@@ -23,7 +23,7 @@ I graduated from Washington University in Saint Louis in 2021 with double Majors
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conditionally Accepted to SIGGRAPH ASIA 2025</div><img src='images/fig-teaser.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conditionally Accepted to SIGGRAPH ASIA 2025</div><img src='images/fig-teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Lifted Surfacing of Generalized Sweep Volumes]()
@@ -36,7 +36,7 @@ I graduated from Washington University in Saint Louis in 2021 with double Majors
 - Suitable for any simulation of nonrigid body transformations, collision detection, robotics path-planning, and AR/VR painting/sculpturing. Can enhance the training process for simulated environments in AI/Robotics.
 
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2024</div><img src='images/adaptive-grid.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

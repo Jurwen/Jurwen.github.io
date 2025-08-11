@@ -56,7 +56,7 @@ I graduated from Washington University in Saint Louis in 2021 with double Majors
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PlantMethods 2024</div><img src='images/toporoot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PlantMethods 2024</div><img src='images/toporoot2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TopoRoot+: Computing Whorl and Soil Line Traits of Maize Roots from CT Imaging](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-024-01240-0)
@@ -72,7 +72,7 @@ I graduated from Washington University in Saint Louis in 2021 with double Majors
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PlantMethods 2021</div><img src='images/toporoot2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PlantMethods 2021</div><img src='images/toporoot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TopoRoot: a method for computing hierarchy and fine-grained traits of maize roots from 3D imaging](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-021-00829-z)
@@ -99,14 +99,10 @@ Dan Zeng, Mao Li, Ni Jiang, **Yiwen Ju**, Hannah Schreiber, Erin Chambers, David
 - *2017.09 - 2021.01* Major in Mathematics, Washington University in Saint Louis
 
 # 💬 Invited Talks
-<ul class="no-indent-list">
-  <li>*2024.08*, Implicit Surface Networks | <a href="https://www.ntop.com/">nTop</a></li>
-  <li>*2024.07*, Adaptive Grid Generation for Discretizing Implicit Complexes | <a href="https://s2024.siggraph.org/">Siggraph</a></li>
-</ul>
+- *2024.08*, Implicit Surface Networks | [nTop](https://www.ntop.com/)
+- *2024.07*, Adaptive Grid Generation for Discretizing Implicit Complexes | [Siggraph](https://s2024.siggraph.org/)
 
 # 💻 Internships
-<ul class="no-indent-list">
-  <li>*2025.06 - 2025.09*, Game Research and Development Intern | <a href="https://www.tencent.com/en-us/about.html">Tencent America</a></li>
-  <li>*2024.05 - 2024.08*, Research Engineer/Scientist Intern | <a href="https://www.adobe.com/">Adobe</a></li>
-  <li>*2018.05 - 2018.08*, Software Engineer Intern | <a href="https://www.ncr.com/">NCR</a></li>
-</ul>
+- *2025.06 - 2025.09*, Game Research and Development Intern | [Tencent America](https://www.tencent.com/en-us/about.html)
+- *2024.05 - 2024.08*, Research Engineer/Scientist Intern | [Adobe](https://www.adobe.com/)
+- *2018.05 - 2018.08*, Software Engineer Intern | [NCR](https://www.ncr.com/)

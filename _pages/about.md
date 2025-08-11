@@ -23,6 +23,21 @@ I graduated from Washington University in Saint Louis in 2021 with double Majors
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conditionally Accepted to SIGGRAPH ASIA 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Lifted Surfacing of Generalized Sweep Volumes]()
+
+**Yiwen Ju**, Qingnan Zhou, Xingyi Du, Nathan Carr, Tao Ju
+
+[**Project Code [Waiting for authorization]**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Designed a novel approach for generating general, robust, and feature-preserving swept volumes (the space swept by a moving, possibly transforming and deforming, solid shape (called a brush) over time). This can be applied to any sweep with a morphing brush or a complex trajectory.
+
+- Suitable for any simulation of nonrigid body transformations, collision detection, robotics path-planning, and AR/VR painting/sculpturing. Can enhance the training process for simulated environments in AI/Robotics.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2024</div><img src='images/adaptive-grid.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -84,10 +99,14 @@ Dan Zeng, Mao Li, Ni Jiang, **Yiwen Ju**, Hannah Schreiber, Erin Chambers, David
 - *2017.09 - 2021.01* Major in Mathematics, Washington University in Saint Louis
 
 # 💬 Invited Talks
-- *2024.08*, Implicit Surface Networks | [   nTop](https://www.ntop.com/)
-- *2024.07*, Adaptive Grid Generation for Discretizing Implicit Complexes | [Siggraph](https://s2024.siggraph.org/)
+<ul class="no-indent-list">
+  <li>*2024.08*, Implicit Surface Networks | <a href="https://www.ntop.com/">nTop</a></li>
+  <li>*2024.07*, Adaptive Grid Generation for Discretizing Implicit Complexes | <a href="https://s2024.siggraph.org/">Siggraph</a></li>
+</ul>
 
 # 💻 Internships
-- *2025.06 - 2025.09*, Game Research and Development Intern | [Tencent America](https://www.tencent.com/en-us/about.html)
-- *2024.05 - 2024.08*, Research Engineer/Scientist Intern | [Adobe](https://www.adobe.com/)
-- *2018.05 - 2018.08*, Software Engineer Intern | [NCR](https://www.ncr.com/)
+<ul class="no-indent-list">
+  <li>*2025.06 - 2025.09*, Game Research and Development Intern | <a href="https://www.tencent.com/en-us/about.html">Tencent America</a></li>
+  <li>*2024.05 - 2024.08*, Research Engineer/Scientist Intern | <a href="https://www.adobe.com/">Adobe</a></li>
+  <li>*2018.05 - 2018.08*, Software Engineer Intern | <a href="https://www.ncr.com/">NCR</a></li>
+</ul>

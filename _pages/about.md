@@ -23,14 +23,14 @@ I graduated from Washington University in Saint Louis in 2021 with double Majors
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conditionally Accepted to SIGGRAPH ASIA 2025</div><img src='images/fig-teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH ASIA 2025</div><img src='images/fig-teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Lifted Surfacing of Generalized Sweep Volumes]()
+[Lifted Surfacing of Generalized Sweep Volumes](https://jurwen.github.io/Swept-Volume-Page/)
 
 **Yiwen Ju**, Qingnan Zhou, Xingyi Du, Nathan Carr, Tao Ju
 
-[**Project Code [Waiting for authorization]**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project Code**](https://github.com/Jurwen/Swept-Volume) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Designed a novel approach for generating general, robust, and feature-preserving swept volumes (the space swept by a moving, possibly transforming and deforming, solid shape (called a brush) over time). This can be applied to any sweep with a morphing brush or a complex trajectory.
 
 - Suitable for any simulation of nonrigid body transformations, collision detection, robotics path-planning, and AR/VR painting/sculpturing. Can enhance the training process for simulated environments in AI/Robotics.
